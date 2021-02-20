@@ -18,7 +18,7 @@
 | 예효은   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/HyoeunYe |
 
 # 가이드
-## 순서
+## 알고리즘 스터디 순서
 ```
 1. 언어별 기본 문법 공부
 2. 코드업, 백준 기본 100제 문제풀이
@@ -26,15 +26,21 @@
 4. 알고리즘 대회 / 기업 코딩테스트 기출문제 풀이
 ```
 
-### 알고리즘 대회, ACM-ICPC
+## 알고리즘 대회, ACM-ICPC
+```
+추가예정
+```
  
-### 기업 코딩테스트, 기술테스트
+## 국내 기업 코딩테스트, 기술테스트
+```
+- 프로그래머스 기출문제(카카오) https://programmers.co.kr/learn/challenges
  
-https://programmers.co.kr/learn/challenges
- 
-[testdome](https://www.testdome.com/tests)
-
- 
+- 기술테스트 문제(SQL, API, 웹 프로그래밍 등) https://www.testdome.com/tests
+```
+## 해외 기업 코딩테스트, 인터뷰
+```
+추가예정
+```
  
 ### 참고문헌
  

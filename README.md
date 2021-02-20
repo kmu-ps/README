@@ -53,5 +53,5 @@ https://programmers.co.kr/learn/challenges
 | 대회,기업 이름 | date | 결과 |  
 | :---:    | :---:      |     :---:      |      
 | ACM-ICPC 예선 | 2020년 10월  | 광탈     | 
- 
+| ACM-ICPC 예선 | 2021년 10월  | 열심히준비중     | 
 

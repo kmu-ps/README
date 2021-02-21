@@ -21,8 +21,11 @@
 ## 알고리즘 스터디 순서
 ```
 1. 언어별 기본 문법 공부
+
 2. 코드업, 백준 기본 100제 문제풀이
+
 3. 그리디 -> 완전 탐색(BFS, DFS) -> 기본 DP -> 그래프 이론 -> 심화 DP 및 문자열 순서대로 각 50 문제씩 풀이
+
 4. 알고리즘 대회 / 기업 코딩테스트 기출문제 풀이
 ```
 
@@ -47,6 +50,10 @@
 [동빈북(입문, 기업코딩테스트)](http://www.yes24.com/Product/goods/91433923?art_bl=13081656)
 
 [종만북(심화, 문제풀이 전략)](https://book.algospot.com/)
+
+[알고리즘 시작](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+  
+[발표 자료](http://theyearlyprophet.com/slides.html)
   
 ### 알고리즘 문제풀이 사이트
 

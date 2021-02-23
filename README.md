@@ -14,7 +14,8 @@
 | :---:        |     :---:      |          :---: |
 | 김언동   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/UndongKim    |
 | 나동준   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/DongjunNa    |
-| 안재욱   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/JaewookAhn    |
+| 안재욱   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/JaewookAhn    | 
+| 양현주   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/HyunjooYang    |
 | 예효은   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/HyoeunYe |
 
 # 가이드

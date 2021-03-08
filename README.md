@@ -12,6 +12,7 @@
 
 | 이름(ㄱㄴㄷ) | 분야(icpc/코테) | 레퍼지토리(url) |
 | :---:        |     :---:      |          :---: |
+| 김다운   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/DaunKim    |
 | 김언동   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/UndongKim    |
 | 나동준   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/DongjunNa    |
 | 안재욱   | ACM-ICPC, 기업 코딩테스트     | https://github.com/kmu-ps/JaewookAhn    | 
